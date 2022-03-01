@@ -1,3 +1,3 @@
 ## Deployed Link
 
-https://yrysku1bek/CV.githab.io/
+https://yrysku1bek.github.io/CV/
